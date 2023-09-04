@@ -31,15 +31,7 @@ header{
   width: 100%;
   margin: 10px;
 }
-.list{
-  display: flex;
-}
-.title{
-  margin: 50px;
-}
-.item{
-  text-align: center;
-}
+
 td{
   padding: 2px 5px;
 }
